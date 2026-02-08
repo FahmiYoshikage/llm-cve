@@ -1,0 +1,10 @@
+torch
+transformers>=4.38.0
+datasets
+peft
+accelerate
+bitsandbytes
+scipy
+trl
+ninja
+packaging
